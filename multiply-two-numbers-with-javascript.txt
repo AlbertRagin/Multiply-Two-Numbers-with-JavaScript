@@ -1,0 +1,2 @@
+const product = 8 * 10;
+// so the const now equals 80
